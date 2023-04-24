@@ -1,5 +1,5 @@
-<h1 align="center">Olá, sou o Franko</h1>
-<h3 align="center">Minha conta com alguns projetos e testes</h3>
+<h1 align="center">Olá</h1>
+<h3 align="center">Meu perfil conta com alguns projetos e testes</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=franko12345&label=Visitantes:&color=0bea55&style=flat" alt="franko12345" /> </p>
 
