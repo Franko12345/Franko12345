@@ -89,10 +89,10 @@
   <a href="https://www.linkedin.com/in/franco-de-luca-99896335b/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="70" height="50" alt="linkedin logo"  />
   </a>
-  <a href="[franko7712](http://discord.com/users/219134050043035650)" target="_blank">
+  <a href="http://discord.com/users/219134050043035650" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="70" height="50" alt="discord logo"  />
   </a>
-  <a href="mailto:franco@delucca.pro.br" target="_blank">
+  <a href="franco@delucca.pro.br" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="70" height="50" alt="gmail logo"  />
   </a>
 </div>
