@@ -4,7 +4,7 @@
 
 ###
 
-<img align="right" height="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Arch_Linux_%22Crystal%22_icon.svg/2048px-Arch_Linux_%22Crystal%22_icon.svg.png"  />
+<img align="right" height="200" src="https://upload.wikimedia.org/wikipedia/commons/1/13/Arch_Linux_%22Crystal%22_icon.svg"  />
 
 ###
 
